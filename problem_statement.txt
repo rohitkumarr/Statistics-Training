@@ -1,0 +1,12 @@
+1.Problem Statement
+
+A Yuva limited Company (fictional),wants to test whether their among two website designs (old & new),which one is more liked by users?.
+·         We will be working to understand the results of an A/B test( on landing page) through run by an company website through hypothesis testing. This involves comparing new & old versions of a landing page, known as variation A and B, to see which performs better.
+·         The objective is to work through this notebook to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+·         So lets understand the result of A/B test ,through a statistical analysis (hypothesis testing) to choose better design. 
+
+ 2. Technical Problem Statement
+
+Climate change due to carbon dioxide (CO 2) emissions is one of the most complex challenges threatening our planet. This issue considered as a great and international Concern that primary attributed from different fossil fuels. 
+o reduce the effect of Global Warming caused mainly due to cars(CO 2) manufacturing companies are pre-estimating the CO2 emissions for a newly manufactured car that is about to launch in the near future based on the features of the car.
+This project deals with estimating the CO2 Emissions for a newly manufactured car by making Regression models which can accurately predetermine the car CO2 emissions before it is being launched
